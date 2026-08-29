@@ -16,7 +16,7 @@ A data-driven Steam game guessing game built around structured clues, configurab
 
 Knowledge-graph augmented Hearthstone card generation using structured card semantics, LLM-based design, and Stable Diffusion LoRA.
 
-`Python` · `Knowledge Graph` · `LLM` · `CLIP` · `Stable Diffusion` · `LoRA`
+`Python` · `Knowledge Graph` · `LLM`  · `Stable Diffusion` · `LoRA`
 
 ### 📚 [Hayaku Shelf](https://github.com/TraceOnSnow/hayaku-shelf)
 

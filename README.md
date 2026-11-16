@@ -1,4 +1,4 @@
-# Hi, I'm Zhiheng Wang
+# Hi, I'm TraceOnSnow
 
 I build **AI systems, games, and software for myself**.
 

@@ -6,9 +6,9 @@ Currently interested in AI agents, applied AI engineering, game systems, and bui
 
 ## Selected Projects
 
-### 🎉 [NanoParty](https://github.com/TraceOnSnow/NanoParty)
+### 🎉 [NanoParty](https://github.com/TraceOnSnow/NanoParty) · [try the demo](https://party.traceonsnow.com)
 
-A self-hosted party game room for friends: guessing, bluffing, voting and card games in the browser, hosted by a shared AI.
+A self-hosted party game room for friends: 28 guessing, bluffing, voting and card games in the browser, hosted by a shared AI. The demo is a server-less static build: watch a scripted round, or have everyone enter the same room code to deal topics and secret roles for a face-to-face game.
 
 `TypeScript` · `React` · `Colyseus` · `PostgreSQL` · `Drizzle` · `LLM` · `Docker`
 
